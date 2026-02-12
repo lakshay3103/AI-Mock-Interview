@@ -20,4 +20,5 @@ A fully functional AI-powered mock interview platform built with **Python**, **S
 ### 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ai-mock-interviewer.git](https://github.com/YOUR_USERNAME/ai-mock-interviewer.git)
+
+   git clone https://github.com/lakshay3103/AI-Mock-Interview/tree/main/mock%20interview%20Project
